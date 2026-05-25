@@ -1,0 +1,5 @@
+node_modules/
+event_registration.db
+db.sqlite3
+npm-debug.log
+.DS_Store
