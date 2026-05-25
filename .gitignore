@@ -3,3 +3,5 @@ event_registration.db
 db.sqlite3
 npm-debug.log
 .DS_Store
+__pycache__/
+*.pyc[cod]
